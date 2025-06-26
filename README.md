@@ -1,0 +1,1 @@
+This project performs image compression by reducing the number of colors in an image using the K-Means clustering algorithm. It helps preserve the overall visual structure of the image while reducing file size and color complexity.
